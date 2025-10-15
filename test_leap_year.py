@@ -24,3 +24,4 @@ def test_numbers_as_string_processed():
 def test_floats_are_processed():
     assert leap_year(1997.0) == False
     assert leap_year(1984.0) == False
+
