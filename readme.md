@@ -1,3 +1,4 @@
-Hello. This is from a Codurance Dojo to practice TDD for this kata:
+From a Codurance Cambridge Software Crafters Session
+Practice of TDD
 
-codurance.com/katas/leapyear
+[Codurance Kata Leap Year](https://www.codurance.com/katas/leap-year)

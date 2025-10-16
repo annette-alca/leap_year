@@ -1,5 +1,5 @@
 def leap_year(year: int) -> bool:
-    # print(year, type(year))
+    """returns True if the year is a leap year. False otherwise"""
     try:
         year = process_year(year)
         return year%400==0 or (year%4 == 0 and year%100!=0)
